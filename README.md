@@ -1,5 +1,5 @@
 # Contributors
-- ADD NAME HERE
+- Srinidhi Jayaprakash
 
 
 # Setup Instructions
